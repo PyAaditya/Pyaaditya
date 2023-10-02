@@ -2,7 +2,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
-### I'm a 🇮🇳 Bot Developer living in 🇮🇳 
+### I'm a Telegram Bot Developer living in 🇮🇳 
 
 ### Languages & Tools 🛠
 
@@ -26,3 +26,10 @@
 ### Let's connect ? 🤝 
 <a href="mailto: pythonaditya1@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-pythonaditya1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
+
+
+<h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
+
+[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Spotify" width="75%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
+
+[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
