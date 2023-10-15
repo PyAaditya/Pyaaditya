@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyaaditya&label=Profile%20views&color=0e75b6&style=plastic" alt="pyaaditya" /> </p>
 
-- I am currently Learning ;))
-- How to reach me **Telegram - [Zen](https://t.me/noobzen)**
+- ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴘʏᴛʜᴏɴ;))
+- **[ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ!](https://t.me/noobzen)**
 
 
-##  🐙 **Github Stats**
+##  🐙 **ɢɪᴛʜᴜʙ sᴛᴀᴛs**
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=pyaaditya&show_icons=true&theme=radical)](https://github.com/pyaaditya)
 
