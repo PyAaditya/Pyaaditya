@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyaaditya&label=Profile%20views&color=0e75b6&style=plastic" alt="pyaaditya" /> </p>
 
 - ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴘʏᴛʜᴏɴ;))
-- **[ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ!](https://t.me/noobzen)**
+- **[ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ!](https://t.me/synczen)**
 
 
 ##  🐙 **ɢɪᴛʜᴜʙ sᴛᴀᴛs**
