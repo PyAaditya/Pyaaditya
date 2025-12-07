@@ -1,20 +1,20 @@
-# ʜᴇʏ, ɪ ᴀᴍ ᴀᴅɪᴛʏᴀ 👨‍💻  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hᴇʏ, ɪ ᴀᴍ ᴀᴅɪᴛʏᴀ 👨‍💻  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyaaditya&label=Profile%20views&color=0e75b6&style=plastic" alt="pyaaditya" /> </p>
 
-- ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴘʏᴛʜᴏɴ;))
-- **[ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ!](https://t.me/synczen)**
+- I ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ Pʏᴛʜᴏɴ;))
+- **[Cʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ!](https://t.me/synczen)**
 
 
-##  🐙 **ɢɪᴛʜᴜʙ sᴛᴀᴛs**
+# 📊 **Gɪᴛʜᴜʙ Sᴛᴀᴛs**:
+![](https://github-readme-stats.vercel.app/api?username=pyaaditya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pyaaditya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pyaaditya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=pyaaditya&show_icons=true&theme=radical)](https://github.com/pyaaditya)
-
-![GitHub followers](https://img.shields.io/github/followers/pyaaditya?color=aqua&label=Followers&style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/pyaaditya?affiliations=OWNER&color=aqua&style=for-the-badge)
+---
 
 
-## 🌐 **Top Languages**
+## 🌐 **Toᴘ Lᴀɴɢᴜᴀɢᴇs**
 
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=war-legend&show_icons=true&theme=radical&layout=compact)](https://github.com/pyaaditya)
 
